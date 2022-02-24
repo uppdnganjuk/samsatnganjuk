@@ -9,23 +9,23 @@ class PPOB extends React.Component{
             <div id="buttonContainer">
                 <MainButton 
                     namaLayanan="Tokopedia" 
-                    link="http://google.co.id"
+                    link="https://www.tokopedia.com/pajak/samsat"
                 />
                 <MainButton 
                     namaLayanan="LinkAja" 
-                    link="http://google.co.id"
+                    link="https://www.linkaja.id/"
                 />
                 <MainButton 
                     namaLayanan="GoJek" 
-                    link="http://google.co.id"
+                    link="gojek://"
                 />
                 <MainButton 
                     namaLayanan="Klik Indomaret" 
-                    link="http://google.co.id"
+                    link="https://virtual.klikindomaret.com/category/ESamsat"
                 />
                 <MainButton 
                     namaLayanan="E-Samsat" 
-                    link="http://google.co.id"
+                    link="https://info.dipendajatim.go.id/esamsat/"
                 />
             </div>
         )
