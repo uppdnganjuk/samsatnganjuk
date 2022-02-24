@@ -1,0 +1,26 @@
+.buttonPPOB{
+    background-color: #c0392b;
+    width: 200px;
+    height: 50px;
+    margin: auto;
+    color: white;
+    border: solid;
+    margin: 5px;
+    border-radius: 0px;
+    
+}
+.buttonPPOB p{
+    margin: 0px;
+    line-height: 50px;
+}
+.buttonPPOB:hover{
+    cursor: pointer;
+    background-color: transparent;
+    color: #c0392b;
+    
+}
+.arrowicon{
+    margin-right: 10px;
+    height: 50px;
+    float: right;
+}

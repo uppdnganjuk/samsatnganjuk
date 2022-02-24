@@ -1,0 +1,57 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NamaLayanan": "Samsat Induk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.89995765686035,
+          -7.61342287268776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NamaLayanan": "Payment Point Warujayeng"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.92115783691406,
+          -7.608148249110078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NamaLayanan": "Samsat Keliling"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.90218925476074,
+          -7.639880084920343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NamaLayanan": "Indomaret"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          111.91248893737793,
+          -7.619037723238408
+        ]
+      }
+    }
+  ]
+}
